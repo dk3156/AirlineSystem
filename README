@@ -1,1 +1,3 @@
-
+Main folder contains all the source files.
+use_case.pdf lists all the webpage for user interaction and sql queries that each interaction was used with.
+file_info.pdf lists all information regards to the backend and frontend files.
